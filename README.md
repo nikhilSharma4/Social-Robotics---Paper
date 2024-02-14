@@ -25,3 +25,5 @@ We welcome scholarly discussions and contributions to this work. If you have any
 ## Citation
 If you use the contents of this paper in your research, please cite it as follows:
 
+Nikhil Sharma, "From Fiction to Fact – Tracing the Ethical Footprints of I, Robot in Modern AI," Department of Electrical and Computer Engineering, University of Waterloo, Waterloo, Canada.
+
